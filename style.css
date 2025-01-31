@@ -3,22 +3,10 @@
         visibility: hidden;
         
     }
-    .menuborder{
-        border: 1px solid black;
-    }
-    .hamberger{
-       display: block;
-       font-size: 30px;
-       text-align: right;
-     
-    }
     .loguh2{
-        display: none;
+        visibility: hidden;
     }
-}
-.hamberger{
   
-   display: none;
 }
 .img{
     width: 100%;
