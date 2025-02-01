@@ -36,33 +36,65 @@
       
   
 }
-@media screen and (max-width:420px) {
-    .foter1{
-        
-    }
-    .hhh{
-        margin-bottom: 500px;
-    }
-  
-}
 @media screen and (max-width:450px) {
     .foter1{
-        
+        margin-top: 50px;
     }
     .hhh{
-        margin-bottom: 500px;
+        margin-bottom: 600px;
     }
+    .news{
+        top: -500px;
+        width: 200px;
+        margin-left: 15px;
+      }
+      
+  
+}
+@media screen and (max-width:500px) {
+    .foter1{
+        margin-top: 50px;
+    }
+    .hhh{
+        margin-bottom: 600px;
+    }
+    .news{
+        top: -500px;
+        width: 200px;
+        margin-left: 15px;
+      }
+      
   
 }
 @media screen and (max-width:576px) {
     .foter1{
-        
+        margin-top: 50px;
     }
     .hhh{
-        margin-bottom: 500px;
+        margin-bottom: 600px;
     }
+    .news{
+        top: -500px;
+        width: 200px;
+        margin-left: 15px;
+      }
+      
   
 }
-.body{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
   font-family: "ADLaM Display", serif;;
 }
