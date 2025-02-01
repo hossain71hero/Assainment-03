@@ -6,8 +6,59 @@
     .loguh2{
         visibility: hidden;
     }
+    .foter1{
+        margin-top: 500px;
+    }
   
 }
 .img{
     width: 100%;
+  
+}
+.news{
+  top: -250px;
+  width: 360px;
+  margin-left: 15px;
+}
+@media screen and (max-width:395px) {
+    .foter1{
+        margin-top: 50px;
+    }
+    .hhh{
+        margin-bottom: 600px;
+    }
+    .news{
+        top: -500px;
+        width: 240px;
+        margin-left: 15px;
+      }
+      
+  
+}
+@media screen and (max-width:420px) {
+    .foter1{
+        
+    }
+    .hhh{
+        margin-bottom: 500px;
+    }
+  
+}
+@media screen and (max-width:450px) {
+    .foter1{
+        
+    }
+    .hhh{
+        margin-bottom: 500px;
+    }
+  
+}
+@media screen and (max-width:576px) {
+    .foter1{
+        
+    }
+    .hhh{
+        margin-bottom: 500px;
+    }
+  
 }
