@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=ADLaM+Display&family=Manrope:wght@200..800&display=swap');
 @media screen and (max-width:576px) {
     .mbleHiden{
         visibility: hidden;
@@ -61,4 +62,7 @@
         margin-bottom: 500px;
     }
   
+}
+.body{
+  font-family: "ADLaM Display", serif;;
 }
